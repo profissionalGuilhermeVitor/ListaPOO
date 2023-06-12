@@ -1,0 +1,30 @@
+C:\Users\Aluno\source\repos\Porto\Porto\bin\Debug\net6.0\Porto.exe
+C:\Users\Aluno\source\repos\Porto\Porto\bin\Debug\net6.0\Porto.deps.json
+C:\Users\Aluno\source\repos\Porto\Porto\bin\Debug\net6.0\Porto.runtimeconfig.json
+C:\Users\Aluno\source\repos\Porto\Porto\bin\Debug\net6.0\Porto.dll
+C:\Users\Aluno\source\repos\Porto\Porto\bin\Debug\net6.0\Porto.pdb
+C:\Users\Aluno\source\repos\Porto\Porto\obj\Debug\net6.0\Porto.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Porto\Porto\obj\Debug\net6.0\Porto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Porto\Porto\obj\Debug\net6.0\Porto.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Porto\Porto\obj\Debug\net6.0\Porto.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Porto\Porto\obj\Debug\net6.0\Porto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Porto\Porto\obj\Debug\net6.0\Porto.dll
+C:\Users\Aluno\source\repos\Porto\Porto\obj\Debug\net6.0\refint\Porto.dll
+C:\Users\Aluno\source\repos\Porto\Porto\obj\Debug\net6.0\Porto.pdb
+C:\Users\Aluno\source\repos\Porto\Porto\obj\Debug\net6.0\Porto.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Porto\Porto\obj\Debug\net6.0\ref\Porto.dll
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\bin\Debug\net6.0\Porto.exe
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\bin\Debug\net6.0\Porto.deps.json
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\bin\Debug\net6.0\Porto.runtimeconfig.json
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\bin\Debug\net6.0\Porto.dll
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\bin\Debug\net6.0\Porto.pdb
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\obj\Debug\net6.0\Porto.csproj.AssemblyReference.cache
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\obj\Debug\net6.0\Porto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\obj\Debug\net6.0\Porto.AssemblyInfoInputs.cache
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\obj\Debug\net6.0\Porto.AssemblyInfo.cs
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\obj\Debug\net6.0\Porto.csproj.CoreCompileInputs.cache
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\obj\Debug\net6.0\Porto.dll
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\obj\Debug\net6.0\refint\Porto.dll
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\obj\Debug\net6.0\Porto.pdb
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\obj\Debug\net6.0\Porto.genruntimeconfig.cache
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Porto\Porto\obj\Debug\net6.0\ref\Porto.dll
